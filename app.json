@@ -1,10 +1,10 @@
 [
   {
-    name: 'vue3_ts_vite',
-    branch: 'vue3_ts_vite'
+    "name": "vue3_ts_vite",
+    "branch": "vue3_ts_vite"
   },
   {
-    name: 'vue2__webpack',
-    branch: 'vue3__webpack'
-  },
+    "name": "element-plus-vite-starter",
+    "branch": "element-plus-vite-starter"
+  }
 ]
